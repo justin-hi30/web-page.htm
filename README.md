@@ -103,27 +103,26 @@ img {
 <body>
     
  
-<div class="jumbotron text-center" style="margin-bottom:0">
+<div class="jumbotron text-center" style="margin-bottom:1">
   <h1>Indoor Plants</h1>
   <p>indoor plants that you might like!</p> 
 </div>
 
 <nav class="navbar navbar-inverse">
-    
-  <div class="container-fluid">      
-    <div class="navbar-header">       
-      <button type="button" class="navbar-toggle" data-toggle="collapse"
-             data-target="#myNavbar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>          
-        <span class="icon-bar"></span>                                
+        <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand"  <a href="#C1">Indoor Plants</a>
+      <a class="navbar-brand"        
+	<a href="#C1">IndoorPlants</a>
     </div>
-    <div class="collapse navbar-collapse" id="myNavbar" >      
-      <ul class="nav navbar-nav"           
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
         <li class="active"> <a href="#C2">Peace Lily</a></li>
-                <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
+        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
       </ul>
     </div>
   </div>
