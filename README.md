@@ -2,15 +2,14 @@
 <html lang="en">
 <head>
 <title>indoor plants</title>
-<meta charset="UTF-8">
 <meta name="description" content="Explore a variety of indoor plants for your home or office."/>
-
+<meta charset="UTF-8">
 	
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-  <style>
+ <style>
   .fakeimg {
     height: 200px;
     background: #aaa;
@@ -104,26 +103,26 @@ img {
 <body>
     
  
-<div class="jumbotron text-center" style="margin bottom:1">
+<div class="jumbotron text-center" style="margin-bottom:1">
   <h1>Indoor Plants</h1>
   <p>indoor plants that you might like!</p> 
 </div>
 
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
-    <div class="navbar-header">   
-<button type="button" class="navbar-toggle" data toggle="collapse" data-target="#myNavbar">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>          
-        <span class="icon-bar"></span>                   
-      </button> 
-<a class="navbar-brand" /a>
-<a href="#C1">IndoorPlants</a>
-   </div>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand"  <a href="#C1">Indoor Plants</a>
+    </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">  
-<li class="active"> <a href="#C2">Peace Lily</a></li>
- <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
+      <ul class="nav navbar-nav">
+        <li class="active"> <a href="#C2">Peace Lily</a></li>
+        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
+							>
       </ul>
     </div>
   </div>
