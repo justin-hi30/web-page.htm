@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>indoor plants</title>
@@ -116,8 +117,7 @@ img {
         <span class="icon-bar"></span>          
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand"</a>
-	      <a href="#C1">Indoor Plants</a>
+      <a class="navbar-brand"  <a href="#C1">Indoor Plants</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -146,6 +146,4 @@ style="width:100%;"
 <p class="two">Price: $20</p>
 
 </body>
-
-
 </html>
