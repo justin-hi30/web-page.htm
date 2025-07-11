@@ -120,8 +120,8 @@ img {
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"> <a href="#C2">Peace Lily</a></li></p>
-        <li class="active"> <a href="#C10">Zanzibar Gem</a></li></p>
+        <li class="active"> <a href="#C2">Peace Lily</a></li>
+        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
       </ul>
     </div>
   </div>
