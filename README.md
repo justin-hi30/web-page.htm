@@ -9,7 +9,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-    <style>
+  <style>
   .fakeimg {
     height: 200px;
     background: #aaa;
@@ -103,7 +103,7 @@ img {
 <body>
     
  
-<div class="jumbotron text-center" style="margin-bottom:1">
+<div class="jumbotron text-center" style="margin bottom:1">
   <h1>Indoor Plants</h1>
   <p>indoor plants that you might like!</p> 
 </div>
@@ -116,13 +116,12 @@ img {
         <span class="icon-bar"></span>          
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand"        
-	<a href="#C1">IndoorPlants</a>
-    </div>
+ <a class="navbar-brand"  <a href="#C1">IndoorPlants</a>
+   </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"> <a href="#C2">Peace Lily</a></li>
-        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
+      <ul class="nav navbar-nav">  
+<li class="active"> <a href="#C2">Peace Lily</a></li>
+ <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
       </ul>
     </div>
   </div>
