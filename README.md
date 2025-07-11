@@ -116,13 +116,12 @@ img {
         <span class="icon-bar"></span>          
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand"  <a href="#C1">Indoor Plants</a>
+      <a class="navbar-brand">  <a href="#C1">Indoor Plants</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"> <a href="#C2">Peace Lily</a></li>
-        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>
-							>
+        <li class="active"> <a href="#C10">Zanzibar Gem</a></li>						
       </ul>
     </div>
   </div>
