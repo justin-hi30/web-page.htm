@@ -117,7 +117,7 @@ img {
         <span class="icon-bar"></span>                        
       </button>
    
-<li class="navbar-brand"> <a href="#C1">IndoorPlants</a></li>
+<a class="navbar-brand"</a> <a href="#C1">IndoorPlants</a>
    </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">  
