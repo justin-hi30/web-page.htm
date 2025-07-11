@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <title>indoor plants</title>
-<meta name="description" content="Explore a variety of indoor plants for your home or office."/>
 <meta charset="UTF-8">
+<meta name="description" content="Explore a variety of indoor plants for your home or office."/>
+
 	
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
