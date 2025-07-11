@@ -116,7 +116,7 @@ img {
         <span class="icon-bar"></span>          
         <span class="icon-bar"></span>                        
       </button>
-      <li class="navbar-brand" >
+      <a class="navbar-brand"</a>
 	      <a href="#C1">Indoor Plants</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
